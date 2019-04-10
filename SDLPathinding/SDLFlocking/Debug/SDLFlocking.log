@@ -1,0 +1,10 @@
+﻿  EventManager.cpp
+e:\work\fyp\sdlflocking\sdlflocking\eventmanager.h(13): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+e:\work\fyp\sdlflocking\sdlflocking\eventmanager.cpp(13): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+e:\work\fyp\sdlflocking\sdlflocking\eventmanager.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameEngine.cpp
+e:\work\fyp\sdlflocking\sdlflocking\eventmanager.h(13): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+e:\work\fyp\sdlflocking\sdlflocking\gameengine.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'SDL2.lib'

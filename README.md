@@ -1,4 +1,5 @@
 # FYP-Pathfinding
+This was written in C++
 I am currently working on this project for my Final Year Project at University.
 
 You can left-click on the screen to set a node as 'intraversable', and can right-click to set it back to being traversable.
